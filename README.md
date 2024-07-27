@@ -7,7 +7,7 @@
 - Here in the github section u will see ur authorised github account username
 - Click on the `3 dot` in the end of `Github` and then Click on `Edit Permission`
 - Enable `public_repo` option then click on `Update Permissions`
----
+--- -
 - Now go to `[Github](https://github.com/)
 - Create a repository and name it `Swisstronik 1` and copy the repository link and save it somewhere
 - Make sure you are creating this repository from the github account which is authorised to `Gitpod`
